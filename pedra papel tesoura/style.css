@@ -1,0 +1,32 @@
+body{
+    border: 0;
+    padding: 0;
+    margin: 0vh;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: rgb(34,193,195);
+    background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(91,55,241,1) 100%);
+    color: rgb(99, 92, 92);
+    text-align: center;
+    font-size: 10px;
+    font-family: monospace
+}
+
+button{
+    font-size: 1em
+}
+#play_OP{
+    font-size: 1em;
+}
+#res_PC{
+    font-size: 1em;
+}
+#nave{
+    border: px white solid;
+    background-color: rgba(207, 202, 202, 0.581);
+    height: 300px;
+    width: 200px;
+
+}
